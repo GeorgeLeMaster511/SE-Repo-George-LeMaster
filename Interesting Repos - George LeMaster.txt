@@ -1,0 +1,9 @@
+https://github.com/arduino/ArduinoCore-avr - Arduino is interesting because it is one of, if not the, most common entry level robotics hardware and software, and combining my coding with my desire to create stupid, impractical robots obviously draws me here.
+
+https://github.com/MinecraftForge/MinecraftForge - With Minecraft’s recent resurgence and current overwhelming popularity, the mod scene for the game has seen a boon as well. Minecraft forge is the go to mod site, as well as creation tool, making it interesting and worth investigating. 
+
+https://github.com/Azure/azure-sdk-tools - Microsoft’s Azure is hosts a wide range of products, which would make this inclusion worthwhile as is, but more specifically I have looked into it’s subsection of chat bots - essential machine learning algorithms that can not only have organic, natural feeling conversations, but can be trained to have, for lack of a better word, personalities, suggesting a possible, very interesting use with AI advancements in games.
+
+https://github.com/practical-tutorials/project-based-learning - Python is a coding language in which you can do practically anything, just sometimes less efficiently than in other languages. While I probably won’t need python much here in Full Sail, it would be a useful skill to be versed in as a professional. As for the specific repo, this one contains lessons that are taught through projects, not simply lectures, and I have always believed you learn best by doing.
+
+https://github.com/github/gitignore - The main repo for all gitignores. Yes, this was mandatory, but no less interesting that the others. This is a repo full of cheatsheets for making your specific code run better for pretty much any platform. Is any of this true? Maybe. But hey, it was a requirement.
